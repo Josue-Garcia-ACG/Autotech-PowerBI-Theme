@@ -1,7 +1,5 @@
 # Autotech Power BI Theme
 
-Este es el tema oficial **"Neon Dark Mode"** para reportes de Power BI de Autotech.
-
 ## Instrucciones de Instalación
 
 1.  **Descarga el archivo**: Asegúrate de tener el archivo `Autotech Power BI Theme.json` en tu computadora.
